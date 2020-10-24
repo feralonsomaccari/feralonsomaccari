@@ -6,6 +6,6 @@ I'm a Software developer and I've been passionate about programming since I was 
 
 I work with React.js, Node.js and Agile methodology on daily basis
 
-Here you can know more bout me https://feralonsomaccari.github.io/my-portfolio
+Here you can know more bout me [feralonsomaccari/my-portfolio](https://feralonsomaccari.github.io/my-portfolio). 
 
 
