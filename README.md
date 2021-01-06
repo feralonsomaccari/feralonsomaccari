@@ -1,4 +1,6 @@
-# Welcome to my Github 💫
+# Fer Alonso Maccari ⏤ @feralonsomaccari 🦉
+
+### Welcome to my Github 💫
 
 Hey! I'm Fer and I like to make fun and useful things on the web.
 
@@ -8,4 +10,4 @@ I work with React, Node.js and Agile methodology on daily basis
 
 Here you can know more bout me [feralonsomaccari/my-portfolio](https://feralonsomaccari.github.io/my-portfolio). 
 
-⏤ @feralonsomaccari 🦉 
+
