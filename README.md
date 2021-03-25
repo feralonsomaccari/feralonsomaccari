@@ -8,5 +8,8 @@ I work with React, Node.js and Agile methodology on daily basis
 
 Here you can know more bout me [feralonsomaccari/my-portfolio](https://feralonsomaccari.github.io/my-portfolio). 
 
+🛠  Stack
+JavaScript  React Node.js SQL CSS
+
 
 ⏤ @feralonsomaccari 🦉
