@@ -2,7 +2,7 @@
 
 Hey! I'm Fer and I like to make fun and useful things on the web.
 
-I'm a Software engineer and I've been passionate about programming since I was a little kid growing up in a tech family. 
+I'm a Full Stack Engineer and I've been passionate about programming since I was a little kid growing up in a tech family. 
 
 I work with React, Node.js and Agile methodology on daily basis
 
