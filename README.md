@@ -10,7 +10,7 @@ Here you can know more bout me [feralonsomaccari/my-portfolio](https://feralonso
 
 ### 🛠 &nbsp;Stack
 
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
