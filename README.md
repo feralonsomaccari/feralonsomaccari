@@ -14,6 +14,7 @@ Here you can know more bout me [feralonsomaccari/my-portfolio](https://feralonso
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 
 ⏤ @feralonsomaccari 🦉
