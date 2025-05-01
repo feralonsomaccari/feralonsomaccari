@@ -15,6 +15,7 @@ Here you can know more bout me [feralonsomaccari/my-portfolio](https://feralonso
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)&nbsp;
 
 
 
