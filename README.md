@@ -4,7 +4,7 @@ Hey! I'm Fer and I like to make fun and useful things on the web.
 
 I'm a Software Engineer and I've been passionate about programming since I was a little kid growing up in a tech family. 
 
-Learn more bout me [feralonsomaccari/my-portfolio](https://feralonsomaccari.github.io/my-portfolio). 
+Learn more about me [feralonsomaccari/my-portfolio](https://feralonsomaccari.github.io/my-portfolio). 
 
 ### 🛠 &nbsp;Stack
 
