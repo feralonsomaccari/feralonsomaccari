@@ -19,4 +19,4 @@ Learn more about me [feralonsomaccari/my-portfolio](https://feralonsomaccari.git
 
 
 
-⏤ @feralonsomaccari 🦉
+@feralonsomaccari 🦉
